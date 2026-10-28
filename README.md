@@ -6,7 +6,3 @@ I’m a **Smart Systems student** based in Bursa, Türkiye, with a background in
 - 💻 Building web projects with TypeScript, HTML, and CSS
 - 🌱 Exploring connected and intelligent systems
 - 🎮 Outside of tech, I enjoy gaming
-
-### Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/kamelaiad/) · [Instagram](https://www.instagram.com/kamel__ad/) · [CodePen](https://codepen.io/kamel-ad)
