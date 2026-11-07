@@ -1,7 +1,6 @@
 ## Hi, I'm Kamel Aiad 👋
 
-Product and UI/UX designer who also builds. Master's student in Intelligent Systems Engineering in Bursa, Türkiye.
+Product and UI/UX designer who also builds.
 
-- 🔨 Building small Mac tools and web products, like [Vorssaint](https://github.com/kamelaiad/vorssaint-utils)
+- 🔨 Building small Mac tools and web products
 - 🤖 Into AI and automation
-- 🎮 Outside of tech, I enjoy gaming
